@@ -22,9 +22,11 @@
 ## Chap02
 
 - Subject Interface
+
 ![image](https://user-images.githubusercontent.com/81848094/175792992-4f4cf5d5-0fa8-4672-88a6-c73c97b778b4.png)
 
 - Observer Interface
+
 ![image](https://user-images.githubusercontent.com/81848094/175792994-a1e17ac0-eccf-44e0-8c83-0196eaa7063c.png)
 
 ### 옵저버 패턴
