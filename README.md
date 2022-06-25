@@ -22,8 +22,10 @@
 ## Chap02
 
 - Subject Interface
+![image](https://user-images.githubusercontent.com/81848094/175792992-4f4cf5d5-0fa8-4672-88a6-c73c97b778b4.png)
 
 - Observer Interface
+![image](https://user-images.githubusercontent.com/81848094/175792994-a1e17ac0-eccf-44e0-8c83-0196eaa7063c.png)
 
 ### 옵저버 패턴
 한 객체의 상태(Subject)가 변화하면 그 객체에 의존하는 다른 객체(Observer)에게 연락이 가고 자동으로 갱신되는 일대다(Many-to-One) 의존성을 정의합니다.
